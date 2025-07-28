@@ -1,6 +1,3 @@
-YouAndMe 💬
-A private, link-based, one-to-one chat application built with Next.js and Socket.IO. No accounts or phone numbers needed—just create a chat, share the unique link, and start talking.
-
 ✨ Features
 Real-Time Messaging: Instant one-to-one communication using WebSockets.
 
